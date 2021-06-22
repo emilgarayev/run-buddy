@@ -110,10 +110,16 @@ header {
   font-size: 16px;
 }
 /* HERO STYLES END */
-<!-- "what we do" section -->
-<section id="what we do">
- ...
- </section>
- <!-- "what-you-do">
-  ...
-  </section>
+/*  "what we do" section  */
+
+  
+  .intro {
+    text-align: center; }
+
+  .intro h2 { font-size:55px;
+  color: #024e76;
+  margin-bottom: 35px;
+ padding: 0 100px 20px 100px;
+ border-bottom: 3px solid;
+ border-color: #fce138;
+}
